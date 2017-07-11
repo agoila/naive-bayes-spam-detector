@@ -1,2 +1,2 @@
-# naive-bayes-spam-detector
-Spam detection using Naive Bayes
+# Spam detection using Naive Bayes
+A practice project from Udacity's Machine Learning Nanodegree program. 
